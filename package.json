@@ -2,7 +2,6 @@
     "name": "project-minimal-api-formula-1",
     "version": "1.0.0",
     "description": "Minimal API Formula 1 with Framework Fastify",
-    "type": "module",
     "main": "server.js",
     "scripts": {
         "dist": "tsup src",
