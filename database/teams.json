@@ -1,55 +1,54 @@
 {
     "teams": [
-      {
-        "id": 1,
-        "team": "Red Bull Racing",
-        "founded": 2005
-      },
-      {
-        "id": 2,
-        "team": "Mercedes",
-        "founded": 1954
-      },
-      {
-        "id": 3,
-        "team": "Ferrari",
-        "founded": 1950
-      },
-      {
-        "id": 4,
-        "team": "McLaren",
-        "founded": 1963
-      },
-      {
-        "id": 5,
-        "team": "Aston Martin",
-        "founded": 2021
-      },
-      {
-        "id": 6,
-        "team": "Alpine",
-        "founded": 2021
-      },
-      {
-        "id": 7,
-        "team": "Alfa Romeo",
-        "founded": 1950
-      },
-      {
-        "id": 8,
-        "team": "Haas",
-        "founded": 2016
-      },
-      {
-        "id": 9,
-        "team": "AlphaTauri",
-        "founded": 2020
-      },
-      {
-        "id": 10,
-        "team": "Williams",
-        "founded": 1977
-      }
+        {
+            "id": 1,
+            "team": "Red Bull Racing",
+            "founded": 2005
+        },
+        {
+            "id": 2,
+            "team": "Mercedes",
+            "founded": 1954
+        },
+        {
+            "id": 3,
+            "team": "Ferrari",
+            "founded": 1950
+        },
+        {
+            "id": 4,
+            "team": "McLaren",
+            "founded": 1963
+        },
+        {
+            "id": 5,
+            "team": "Aston Martin",
+            "founded": 2021
+        },
+        {
+            "id": 6,
+            "team": "Alpine",
+            "founded": 2021
+        },
+        {
+            "id": 7,
+            "team": "Alfa Romeo",
+            "founded": 1950
+        },
+        {
+            "id": 8,
+            "team": "Haas",
+            "founded": 2016
+        },
+        {
+            "id": 9,
+            "team": "AlphaTauri",
+            "founded": 2020
+        },
+        {
+            "id": 10,
+            "team": "Williams",
+            "founded": 1977
+        }
     ]
-  }
-  
+}

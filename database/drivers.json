@@ -1,124 +1,124 @@
 {
     "drivers": [
-      {
-        "id": 1,
-        "name": "Max Verstappen",
-        "team": "Red Bull Racing",
-        "championships": 2
-      },
-      {
-        "id": 2,
-        "name": "Sergio Perez",
-        "team": "Red Bull Racing",
-        "championships": 0
-      },
-      {
-        "id": 3,
-        "name": "Lewis Hamilton",
-        "team": "Mercedes",
-        "championships": 7
-      },
-      {
-        "id": 4,
-        "name": "George Russell",
-        "team": "Mercedes",
-        "championships": 0
-      },
-      {
-        "id": 5,
-        "name": "Charles Leclerc",
-        "team": "Ferrari",
-        "championships": 0
-      },
-      {
-        "id": 6,
-        "name": "Carlos Sainz",
-        "team": "Ferrari",
-        "championships": 0
-      },
-      {
-        "id": 7,
-        "name": "Lando Norris",
-        "team": "McLaren",
-        "championships": 0
-      },
-      {
-        "id": 8,
-        "name": "Oscar Piastri",
-        "team": "McLaren",
-        "championships": 0
-      },
-      {
-        "id": 9,
-        "name": "Fernando Alonso",
-        "team": "Aston Martin",
-        "championships": 2
-      },
-      {
-        "id": 10,
-        "name": "Lance Stroll",
-        "team": "Aston Martin",
-        "championships": 0
-      },
-      {
-        "id": 11,
-        "name": "Esteban Ocon",
-        "team": "Alpine",
-        "championships": 0
-      },
-      {
-        "id": 12,
-        "name": "Pierre Gasly",
-        "team": "Alpine",
-        "championships": 0
-      },
-      {
-        "id": 13,
-        "name": "Valtteri Bottas",
-        "team": "Alfa Romeo",
-        "championships": 0
-      },
-      {
-        "id": 14,
-        "name": "Zhou Guanyu",
-        "team": "Alfa Romeo",
-        "championships": 0
-      },
-      {
-        "id": 15,
-        "name": "Kevin Magnussen",
-        "team": "Haas",
-        "championships": 0
-      },
-      {
-        "id": 16,
-        "name": "Nico Hulkenberg",
-        "team": "Haas",
-        "championships": 0
-      },
-      {
-        "id": 17,
-        "name": "Yuki Tsunoda",
-        "team": "AlphaTauri",
-        "championships": 0
-      },
-      {
-        "id": 18,
-        "name": "Daniel Ricciardo",
-        "team": "AlphaTauri",
-        "championships": 0
-      },
-      {
-        "id": 19,
-        "name": "Alexander Albon",
-        "team": "Williams",
-        "championships": 0
-      },
-      {
-        "id": 20,
-        "name": "Logan Sargeant",
-        "team": "Williams",
-        "championships": 0
-      }
+        {
+            "id": 1,
+            "name": "Max Verstappen",
+            "team": "Red Bull Racing",
+            "championships": 2
+        },
+        {
+            "id": 2,
+            "name": "Sergio Perez",
+            "team": "Red Bull Racing",
+            "championships": 0
+        },
+        {
+            "id": 3,
+            "name": "Lewis Hamilton",
+            "team": "Mercedes",
+            "championships": 7
+        },
+        {
+            "id": 4,
+            "name": "George Russell",
+            "team": "Mercedes",
+            "championships": 0
+        },
+        {
+            "id": 5,
+            "name": "Charles Leclerc",
+            "team": "Ferrari",
+            "championships": 0
+        },
+        {
+            "id": 6,
+            "name": "Carlos Sainz",
+            "team": "Ferrari",
+            "championships": 0
+        },
+        {
+            "id": 7,
+            "name": "Lando Norris",
+            "team": "McLaren",
+            "championships": 0
+        },
+        {
+            "id": 8,
+            "name": "Oscar Piastri",
+            "team": "McLaren",
+            "championships": 0
+        },
+        {
+            "id": 9,
+            "name": "Fernando Alonso",
+            "team": "Aston Martin",
+            "championships": 2
+        },
+        {
+            "id": 10,
+            "name": "Lance Stroll",
+            "team": "Aston Martin",
+            "championships": 0
+        },
+        {
+            "id": 11,
+            "name": "Esteban Ocon",
+            "team": "Alpine",
+            "championships": 0
+        },
+        {
+            "id": 12,
+            "name": "Pierre Gasly",
+            "team": "Alpine",
+            "championships": 0
+        },
+        {
+            "id": 13,
+            "name": "Valtteri Bottas",
+            "team": "Alfa Romeo",
+            "championships": 0
+        },
+        {
+            "id": 14,
+            "name": "Zhou Guanyu",
+            "team": "Alfa Romeo",
+            "championships": 0
+        },
+        {
+            "id": 15,
+            "name": "Kevin Magnussen",
+            "team": "Haas",
+            "championships": 0
+        },
+        {
+            "id": 16,
+            "name": "Nico Hulkenberg",
+            "team": "Haas",
+            "championships": 0
+        },
+        {
+            "id": 17,
+            "name": "Yuki Tsunoda",
+            "team": "AlphaTauri",
+            "championships": 0
+        },
+        {
+            "id": 18,
+            "name": "Daniel Ricciardo",
+            "team": "AlphaTauri",
+            "championships": 0
+        },
+        {
+            "id": 19,
+            "name": "Alexander Albon",
+            "team": "Williams",
+            "championships": 0
+        },
+        {
+            "id": 20,
+            "name": "Logan Sargeant",
+            "team": "Williams",
+            "championships": 0
+        }
     ]
-}  
+}
